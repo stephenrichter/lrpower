@@ -98,7 +98,7 @@ class Homepage extends React.Component {
               </header>
               <p>Sed lacus nascetur ac ante amet sapien.</p>
               <ul className="actions uniform">
-                <li><a href="#" className="button special">Contact Us</a></li>
+                <li><a href="mailto:ron.richter@lrpowersolutions.com" className="button special">Contact Us</a></li>
               </ul>
             </div>
             <div className="col-4">
